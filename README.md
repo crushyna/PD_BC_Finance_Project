@@ -1,1 +1,3 @@
-# PD_BC_Finance_Project
+# Pieran Data: Python - Financial Crisis Project
+
+Financial Crisis from XXI century - data analysis.
